@@ -1,0 +1,7 @@
+{
+  "full_screen": false,
+  "radar_enabled": true,
+  "tutorial_enabled": true,
+  "player_color_main": "#65E572",
+  "player_color_glow": "#282C55"
+}

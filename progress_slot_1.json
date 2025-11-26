@@ -1,0 +1,35 @@
+{
+  "player_level": 2,
+  "total_xp": 15,
+  "xp_to_next_level": 140,
+  "unlocked_classes": [
+    "warrior"
+  ],
+  "selected_class": "warrior",
+  "permanent_upgrades": {
+    "health": 0,
+    "damage": 0,
+    "speed": 0,
+    "energy": 0,
+    "regen": 0,
+    "bullet_speed": 0,
+    "bullet_size": 0,
+    "critical_chance": 0,
+    "dodge_chance": 0
+  },
+  "skills_unlocked": {
+    "double_shot": false,
+    "poison_bullets": false,
+    "freeze_bullets": false,
+    "explosive_bullets": false,
+    "life_steal": false
+  },
+  "total_play_time": 181.65274079999654,
+  "total_kills": 90,
+  "total_damage": 12600.0,
+  "highest_wave": 7,
+  "games_played": 1,
+  "difficulty_name": "Normal",
+  "tutorial_seen": true,
+  "last_run": null
+}
